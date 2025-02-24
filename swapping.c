@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "arithmetic.h"
 
 /*
 swap two variables withoutthe use of a third variable
