@@ -3,7 +3,7 @@
 
 //  swapping.c
 /*
-swap two variables withoutthe use of a third variable
+swap two variables without the use of a third variable
 */
 void swap_two_var(int a, int b);
 /*
